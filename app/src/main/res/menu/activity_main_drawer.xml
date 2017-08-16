@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_dly"
+            android:icon="@mipmap/icon_draw_dly"
+            android:title="@string/draw_menu_dly" />
+        <item
+            android:id="@+id/nav_lr"
+            android:icon="@mipmap/icon_draw_lr"
+            android:title="@string/draw_menu_lr" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@mipmap/icon_draw_fs"
+            android:title="@string/draw_menu_fs" />
+        <item
+            android:id="@+id/nav_qs"
+            android:icon="@mipmap/icon_draw_qs"
+            android:title="@string/draw_menu_qs" />
+        <item
+            android:id="@+id/nav_ms"
+            android:icon="@mipmap/icon_draw_ms"
+            android:title="@string/draw_menu_ms" />
+        <item
+            android:id="@+id/nav_dz"
+            android:icon="@mipmap/icon_draw_dz"
+            android:title="@string/draw_menu_dz" />
+        <item
+            android:id="@+id/nav_sm"
+            android:icon="@mipmap/icon_draw_sm"
+            android:title="@string/draw_menu_sm" />
+        <item
+            android:id="@+id/nav_ss"
+            android:icon="@mipmap/icon_draw_ss"
+            android:title="@string/draw_menu_ss" />
+        <item
+            android:id="@+id/nav_zs"
+            android:icon="@mipmap/icon_draw_zs"
+            android:title="@string/draw_menu_zs" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>

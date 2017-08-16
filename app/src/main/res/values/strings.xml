@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">炉石竞技场</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_search">搜索</string>
+
+    <!-- 侧边栏职业文字 -->
+    <string name="draw_menu_dly">@string/druid</string>
+    <string name="draw_menu_dz">@string/rogue</string>
+    <string name="draw_menu_fs">@string/mage</string>
+    <string name="draw_menu_lr">@string/hunter</string>
+    <string name="draw_menu_ms">@string/priest</string>
+    <string name="draw_menu_qs">@string/paladin</string>
+    <string name="draw_menu_sm">@string/shaman</string>
+    <string name="draw_menu_ss">@string/warlock</string>
+    <string name="draw_menu_zs">@string/warrior</string>
+    <string name="draw_menu_all">中立</string>
+
+    <!-- 第一次运行时，拷贝数据库提示文字 -->
+    <string name="first_run_tips_title">温馨提示</string>
+    <string name="first_run_tips_content">第一次运行需要同步数据，只需要几秒中的时间，请稍候…</string>
+
+
+    <!-- 卡牌稀有度 -->
+    <string name="common">普通</string>
+    <string name="rare">稀有</string>
+    <string name="epic">史诗</string>
+    <string name="legend">传说</string>
+
+    <string name="more">更多</string>
+    
+    <string name="druid">德鲁伊</string>
+    <string name="hunter">猎人</string>
+    <string name="mage">法师</string>
+    <string name="paladin">圣骑士</string>
+    <string name="priest">牧师</string>
+    <string name="rogue">潜行者</string>
+    <string name="shaman">萨满祭司</string>
+    <string name="warlock">术士</string>
+    <string name="warrior">战士</string>
+    <string name="image_content_desc">nothing</string>
+
+    <string name="great">极好</string>
+    <string name="good">好</string>
+    <string name="above_average">不错</string>
+    <string name="average">中等</string>
+    <string name="below_average">稍差</string>
+    <string name="bad">差</string>
+    <string name="terrible">极差</string>
+
+    <string-array name="professions">
+        <item>@string/druid</item>
+        <item>@string/hunter</item>
+        <item>@string/mage</item>
+        <item>@string/paladin</item>
+        <item>@string/priest</item>
+        <item>@string/rogue</item>
+        <item>@string/shaman</item>
+        <item>@string/warlock</item>
+        <item>@string/warrior</item>
+    </string-array>
+
+    <string-array name="rarities">
+        <item>@string/common</item>
+        <item>@string/rare</item>
+        <item>@string/epic</item>
+        <item>@string/legend</item>
+    </string-array>
+
+    <string name="voice_recognizer">语音识别</string>
+    <string name="tap_to_speak">点击图标后说话</string>
+    <string name="start_speak">请开始说话</string>
+    <string name="sr_init_error">初始化失败，错误码：</string>
+    <string name="profession">卡牌所属职业</string>
+    <string name="card_name">卡牌名称</string>
+    <string name="card_rarity">卡牌稀有度</string>
+    <string name="card_appraise">卡牌评分</string>
+
+    <string name="neutral">中立</string>
+
+
+
+</resources>
