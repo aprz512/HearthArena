@@ -48,6 +48,7 @@ dependencies {
     compile 'com.trello.rxlifecycle2:rxlifecycle:2.1.0'
     compile 'com.trello.rxlifecycle2:rxlifecycle-android:2.1.0'
     compile 'com.trello.rxlifecycle2:rxlifecycle-components:2.1.0'
+    compile 'com.umeng.analytics:analytics:latest.integration'
     compile project(':library')
     compile files('libs/Msc.jar')
     compile 'com.github.zagum:SpeechRecognitionView:1.1'
